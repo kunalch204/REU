@@ -1,0 +1,5 @@
+*.pyc
+__pycache__/
+atari/
+data/img_data_tmp/
+atari_freeway/data/
